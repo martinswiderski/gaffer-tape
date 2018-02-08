@@ -1,0 +1,11 @@
+{
+  "name": "gaffer-tape",
+  "version": "0.0.1",
+  "description": "wrap/unwrap objects with encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Swiderski",
+  "license": "MIT"
+}
