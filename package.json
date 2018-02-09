@@ -32,13 +32,17 @@
   },
   "dependencies": {
     "JSONPath": "^0.11.2",
+    "buffer": "^5.0.8",
+    "cryptr": "^3.0.0",
     "fs": "0.0.1-security",
+    "jsoncomp": "^1.6.1",
     "md5": "^2.2.1",
     "path": "^0.12.7",
     "sha1": "^1.1.1",
     "shortid": "^2.2.8",
     "uuid": "^3.1.0",
     "validator": "^7.2.0",
-    "yamljs": "^0.2.8"
+    "yamljs": "^0.2.8",
+    "zlib": "^1.0.5"
   }
 }
