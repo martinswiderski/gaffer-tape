@@ -1,6 +1,6 @@
 {
   "name": "gaffer-tape",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wrap/unwrap objects with (customised) encryption, zipping and Base64 packing",
   "main": "index.js",
   "scripts": {
