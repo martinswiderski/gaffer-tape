@@ -40,6 +40,11 @@ var gafferTape = require('./../../index'),
     wrapped2 = gafferTape.wrap(person),
     errorObj2  = gafferTape.unwrap(('shdfhfhf'));
 
+describe('implements interface', function () {
+    it('for version', function () {
+        expect(gafferTape.version()).toBe('0.0.21');
+    });
+});
 describe('wraps objects via main interface', function () {
     it('producing strings', function () {
         expect(gafferTape.wrap(person)).toBe('ZDliODAzNDVkODEyOTNkNGM1YjE1N2ZmMWU0ZDlmOWRjYmMyYWFhZGZhZTJjY2ZmZWUwY2M5NTM0MzU5YjVjNDIxZjAxZWQ0NmJlN2VmZjQzMjkzZjFlMjNmMjQ4YjFjOGIzOTE2MzlkMDliMzVmNDUxYjcyMjM2MDQzODE3MGI5OWQ5NGQ4OGE1N2JmYTg1OTE5YjRjZTA2MDRmMzAwMzhjMTljZGEwYmIzODY0MDY4NWQ4NGZmYmU2YjY5MmM4NDY3YmJkZjFmY2Y3YzNmZjA5NWU2MDUxZjEzN2Q0ODM=');
