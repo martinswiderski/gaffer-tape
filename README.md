@@ -2,7 +2,9 @@
 # gaffer-tape
 Wrap/unwrap objects with (customised) `encryption`, `zipping` and `base64` packing
 
+#### Build status
 
+[ ![Codeship Status for martinswiderski/gaffer-tape](https://app.codeship.com/projects/ba86e0d0-1c6b-0136-6839-5ae44d395cb1/status?branch=master)](https://app.codeship.com/projects/284651)
 ## Installation
 
 ```bash
