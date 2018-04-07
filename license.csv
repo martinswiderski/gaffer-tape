@@ -1,0 +1,21 @@
+department  related to  name            license period  material / not material  license type  link                                                  comment
+----------  ----------  ----            --------------  -----------------------  ------------  ----                                                  -------
+kessler     stuff       JSONPath        perpetual       material                 MIT           git://github.com/s3u/JSONPath.git                     0.11.2
+kessler     stuff       buffer          perpetual       material                 MIT           git://github.com/feross/buffer.git                    5.1.0
+kessler     stuff       cryptr          perpetual       material                 MIT           git://github.com/MauriceButler/cryptr.git             3.0.0
+kessler     stuff       fs              perpetual       material                 ISC           git+https://github.com/npm/security-holder.git        0.0.1-security
+kessler     stuff       jsoncomp        perpetual       material                 MIT           https://github.com/tcorral/JSONC.git                  1.6.1
+kessler     stuff       license-report  perpetual       material                 MIT           git+https://github.com/ironSource/license-report.git  2.1.1
+kessler     stuff       md5             perpetual       material                 BSD-3-Clause  git://github.com/pvorb/node-md5.git                   2.2.1
+kessler     stuff       path            perpetual       material                 MIT           git://github.com/jinder/path.git                      0.12.7
+kessler     stuff       sha1            perpetual       material                 BSD-3-Clause  git://github.com/pvorb/node-sha1.git                  1.1.1
+kessler     stuff       shortid         perpetual       material                 MIT           git+https://github.com/dylang/shortid.git             2.2.8
+kessler     stuff       uuid            perpetual       material                 MIT           git+https://github.com/kelektiv/node-uuid.git         3.2.1
+kessler     stuff       validator       perpetual       material                 MIT           git+ssh://git@github.com/chriso/validator.js.git      7.2.0
+kessler     stuff       yamljs          perpetual       material                 MIT           git://github.com/jeremyfa/yaml.js.git                 0.2.10
+kessler     stuff       zlib            perpetual       material                 BSD           git://github.com/kkaefer/node-zlib.git                1.0.5
+kessler     stuff       bash-color      perpetual       material                 MIT           git+https://github.com/mbilokonsky/bash-color.git     0.0.4
+kessler     stuff       eslint          perpetual       material                 MIT           git+https://github.com/eslint/eslint.git              3.19.0
+kessler     stuff       istanbul        perpetual       material                 BSD-3-Clause  git://github.com/gotwarlost/istanbul.git              0.4.5
+kessler     stuff       jasmine-node    perpetual       material                 MIT           https://github.com/mhevery/jasmine-node.git           1.14.5
+kessler     stuff       md5-file        perpetual       material                 MIT           git+https://github.com/roryrjb/md5-file.git           3.2.3
