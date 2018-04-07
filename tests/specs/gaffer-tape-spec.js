@@ -42,7 +42,7 @@ var gafferTape = require('./../../index'),
 
 describe('implements interface', function () {
     it('for version', function () {
-        expect(gafferTape.version()).toBe('0.0.21');
+        expect(gafferTape.version()).toBe('0.0.22');
     });
 });
 describe('wraps objects via main interface', function () {
